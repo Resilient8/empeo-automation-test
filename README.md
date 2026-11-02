@@ -2,7 +2,7 @@
 
 งานทดสอบระบบลงทะเบียน empeo ด้วย Playwright (TypeScript)
 
-ลิงก์วิดีโอผลการทดสอบ: [(เอาลิงก์ Google Drive ของคลิปมาแปะตรงนี้)](https://drive.google.com/file/d/1dGttrch4tLgPLpfuUvxqWWwV7x-5zZry/view?usp=drive_link)
+ลิงก์วิดีโอผลการทดสอบ:(https://drive.google.com/file/d/1dGttrch4tLgPLpfuUvxqWWwV7x-5zZry/view?usp=drive_link)
 
 
 เกี่ยวกับ Test Script
